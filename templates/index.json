@@ -1,97 +1,120 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
-    "image_banner": {
-      "type": "image-banner",
+    "hero_z6wJCM": {
+      "type": "hero",
+      "disabled": true,
+      "settings": {
+        "background_image": "shopify://shop_images/robert-bye-R-WtV-QyVnY-unsplash_135415e9-0bba-47e2-a29c-2e433cb8136a.jpg",
+        "title": "Marvel Power Group",
+        "subtitle": "Marvel Power Group is a boutique, climate-focused transaction broker and commercial advisor. We provide expert services to clients in transportation, power and gas operations, waste management, industrial processing, trading and logistics.",
+        "button_text": "CONTACT US",
+        "button_image": "shopify://shop_images/Group_112.svg",
+        "button_link": "https://example.com",
+        "notification": "Scroll for more"
+      }
+    },
+    "mission_mg6G4f": {
+      "type": "mission",
       "blocks": {
-        "heading": {
-          "type": "heading",
+        "column_RzTeye": {
+          "type": "column",
           "settings": {
-            "heading": "Image banner",
-            "heading_size": "h0"
+            "column_image": "shopify://shop_images/Group_263_c44790b7-fce8-4855-a148-80a3deab100e.png",
+            "column_title": "$1B",
+            "column_subtitle": "in closed RNG transactions in 2021 alone"
           }
         },
-        "text": {
-          "type": "text",
+        "column_L36Ykw": {
+          "type": "column",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
+            "column_image": "shopify://shop_images/Group_262_959ce647-b36f-41b9-8391-a619708ecdae.png",
+            "column_title": "$4B",
+            "column_subtitle": "in cumulative Renewable Energy and RNG closings"
           }
         },
-        "button": {
-          "type": "buttons",
+        "column_MzHxEb": {
+          "type": "column",
           "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify://collections/all",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "column_image": "shopify://shop_images/Group_261_42f23174-91d7-4feb-b577-c8717f855d5b.png",
+            "column_title": "30Yrs",
+            "column_subtitle": "of collective industry experience"
+          }
+        },
+        "column_zULrLU": {
+          "type": "column",
+          "settings": {
+            "column_image": "shopify://shop_images/Group_260_87c14afc-56a7-4772-99b3-f108f83a9546.png",
+            "column_title": "$300M",
+            "column_subtitle": "in capital placed for client ventures"
+          }
+        },
+        "column_e3xcXa": {
+          "type": "column",
+          "settings": {
+            "column_image": "shopify://shop_images/Group_259_501b506d-538e-4325-80f2-2bc163448e6f.png",
+            "column_title": "100%",
+            "column_subtitle": "independent and unbiased advice"
           }
         }
       },
       "block_order": [
-        "heading",
-        "text",
-        "button"
+        "column_RzTeye",
+        "column_L36Ykw",
+        "column_MzHxEb",
+        "column_zULrLU",
+        "column_e3xcXa"
       ],
+      "disabled": true,
+      "custom_css": [],
       "settings": {
-        "image_overlay_opacity": 40,
-        "image_height": "large",
-        "desktop_content_position": "bottom-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-3",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
+        "title": "Mission",
+        "image": "shopify://shop_images/2438_2_729a081c-2d5c-4b34-830a-874709bcb538.jpg",
+        "description": "<span class=\"mission-text-span\">Energy Transition is our core and only focus.</span> We structure complex, meaningfully large renewable natural gas (RNG) and power transactions for companies committed to environmentally-sound, commercially-ready solutions.\n<br>\n<br>\nOur principals are experienced practitioners who have run companies, originated and closed complex deals, advocated and negotiated favorable policy and advanced technological innovation. With over three decades of combined experience in renewables specifically, our customers chose us, every time, for our unparalleled industry knowledge, market acumen, professionalism and commitment to their prosperity."
       }
     },
-    "rich_text": {
-      "type": "rich-text",
+    "services_JjdKEj": {
+      "type": "services",
       "blocks": {
-        "heading": {
-          "type": "heading",
+        "service_column_yyLhN9": {
+          "type": "service_column",
           "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
+            "column_title": "Transaction Support",
+            "items_list": "Renewable Natural Gas offi ales\nRIN, RTC, REC and LCFS brokerage\nRenewable PPA origination\nContract negotiations and structuring"
           }
         },
-        "text": {
-          "type": "text",
+        "service_column_Cm6AXG": {
+          "type": "service_column",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "column_title": "Enterprise Strategy",
+            "items_list": "Market advisory\nRisk management\nCapital sourcing or deployment\nResource optimization"
+          }
+        },
+        "service_column_Chh9eX": {
+          "type": "service_column",
+          "settings": {
+            "column_title": "Market Development",
+            "items_list": "New venture strategy\nGo-to-market architecture\nM&A support\nMarketing and partnerships"
           }
         }
       },
       "block_order": [
-        "heading",
-        "text"
+        "service_column_yyLhN9",
+        "service_column_Cm6AXG",
+        "service_column_Chh9eX"
       ],
       "settings": {
-        "color_scheme": "scheme-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured products",
-        "heading_size": "h2",
-        "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "color_scheme": "scheme-1",
-        "show_view_all": false,
-        "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "columns_mobile": "2",
-        "padding_top": 28,
-        "padding_bottom": 36
+        "title": "Services",
+        "image": "shopify://shop_images/Rectangle_206.png",
+        "description": "Our clients are keenly focused on reliable, existing low-carbon solutions. Their mandates are complex: balance project needs with customer demands, regulatory frameworks, lofty investment targets and developmental complexities. Layer on market volatility and regulatory risk and the scope becomes less manageable in-house. This is where Marvel comes in. We understand the task and bring deep expertise to addressing these challenges."
       }
     },
     "collage": {
@@ -127,6 +150,7 @@
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
         "color_scheme": "scheme-1",
         "padding_top": 36,
         "padding_bottom": 36
@@ -136,8 +160,9 @@
       "type": "video",
       "settings": {
         "heading": "",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "description": "",
         "full_width": false,
         "color_scheme": "scheme-1",
@@ -152,7 +177,7 @@
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
             "link": ""
           }
@@ -161,7 +186,7 @@
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
             "link": ""
           }
@@ -170,7 +195,7 @@
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
             "link": ""
           }
@@ -186,23 +211,23 @@
         "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
         "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": false,
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
     }
   },
   "order": [
-    "image_banner",
-    "rich_text",
-    "featured_collection",
+    "hero_z6wJCM",
+    "mission_mg6G4f",
+    "services_JjdKEj",
     "collage",
     "video",
     "multicolumn"
